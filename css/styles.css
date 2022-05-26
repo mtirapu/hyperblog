@@ -4,16 +4,9 @@ body{
     background-color: beige;
 }
 
-h1{
-    color: #333;
-}
-
-.cabecera{
-    border: 1px solid #333;
-    background-color: rgb(235, 238, 75);
-}
-
-div{
-    padding: 30px;
-    margin: 50px;
+.header{
+    margin: 100px auto;
+    border: 1px solid #c3c3c3;
+    width: 80%;
+    background-color: aliceblue;
 }
