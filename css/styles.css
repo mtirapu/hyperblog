@@ -1,14 +1,9 @@
 body{
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
-    color: #333);
+    color: #333;
 }
 
 .cabecera{
     border: 1px solid #333;
-}
-
-div{
-    padding: 30px;
-    margin: 50px;
 }
