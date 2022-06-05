@@ -14,3 +14,12 @@ body{
     padding: 20px;
     margin: 30px;
 }
+
+#footer{
+    background-color: blanchedalmond;
+    padding: 5px;
+}
+
+#footer h4{
+    font-weight: 600;
+}
